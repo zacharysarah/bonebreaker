@@ -1,4 +1,5 @@
-# Dystopia Rising LARP Network Survivor's Guide 2.0
+Dystopia Rising LARP Network Survivor's Guide 2.0
+=================================================
 
 LARP Rules for the Dystopia Rising Network
 
@@ -6,37 +7,46 @@ Intended for use at licensed Dystopia Rising events.
 
 All rights reserved.
 
-## Credits
+Credits
+~~~~~~~
 
-### Original world creation
+Original world creation
+-----------------------
 
 Michael Pucci
 
-### Executive producer
+Executive producer
+------------------
 
 Ashley Zdeb
 
-### Contributing writers
+Contributing writers
+--------------------
 
 Michael Pucci, Ashley Zdeb, Catie Griffin, Peter Woodworth, Megan Jaffe, Sean Jaffe, and Matthew Volk
 
-### Additional materials
+Additional materials
+--------------------
 
 Joshua Demers, Matt Wallace, Liam Neary, Mike Malecki, Ben Przybylinski
 
-### Contributing artists
+Contributing artists
+--------------------
 
 Anastasia Marston, Cryssy Cheung, Zach Herschberger, Joshua Brain Jaffe, Peter Moschel Johnson, Liz Lehman, Marcus Kim, Richard Gore, Jaclyn Wellner, Jennifer Lazaroff, Richard Sampson, Andrew Scott, Ralph Attanasia, Matthew Volk
 
-### Layout and design
+Layout and design
+-----------------
 
 Joshua Brain Jaffe
 
-### Markdown conversion
+Editing and online conversion
+-----------------------------
 
 Zach Corleissen
 
-## Copyright
+Copyright
+~~~~~~~~~
 
 Copyright 2009-2016 Dystopia Rising LLC
 
