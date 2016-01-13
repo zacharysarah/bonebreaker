@@ -17,3 +17,18 @@ The goal of milestone 2 is not to consider how the current rules do and don't fu
 ## Milestone 3: Big, hairy questions
 
 We'll cross that bridge if we ever come to it.
+
+## Known Issues
+
+- No images
+
+    This project contains none of the images found in the officially published Survivor's Guide (OPSG), mostly because I have no access to the original image files.
+
+- The "fi" issue
+
+    The typeface used in the OPSG replaces "fi" with a special character. When copied and pasted, the character is rendered as a space. Be mindful of gaps when working on content. Replace missing letters whenever possible.
+
+- Page numbers
+
+    Page numbers are removed in this version. It would be nice to be able to cross-reference the OPSG by page number, but that requires a separate solution.
+
